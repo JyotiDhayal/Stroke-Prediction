@@ -3,6 +3,7 @@ This project builds a classifier for stroke prediction, which predicts the proba
 
 Overview
 There are various classification algorithms present out of which we shall implement the following
+
 • Random Forest Classification
 • LightGBM classification
 • Decision Tree Classification
